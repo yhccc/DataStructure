@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07806f88-8ff3-412d-9c35-4af1cb45cdd7" name="Default Changelist" comment="" />
+    <list default="true" id="07806f88-8ff3-412d-9c35-4af1cb45cdd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinarySearchTree/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearchTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearchTree/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearchTree/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearchTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearchTree/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/203.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1T02GFrMNC8zctakgi9nKPmt0VT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedList" />
   </component>
@@ -61,5 +93,18 @@
       <updated>1572582594453</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
