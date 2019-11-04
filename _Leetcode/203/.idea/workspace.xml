@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cc89b6d-36d7-49cd-9a3a-12364e2afec0" name="Default Changelist" comment="" />
+    <list default="true" id="4cc89b6d-36d7-49cd-9a3a-12364e2afec0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Set/Set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearchTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/out/production/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/out/production/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/out/production/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/out/production/LinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/203/Solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/203/Solution3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution3.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1T0rvMRi7LsKqrTANb1Gvy6KXvC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -98,5 +116,16 @@
       <updated>1572608083091</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -2,33 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07806f88-8ff3-412d-9c35-4af1cb45cdd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BinarySearchTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/Set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Leetcode/203/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearchTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinarySearchTree/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearchTree/src/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinarySearchTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearchTree/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/203.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/out/production/203/Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203/src/Sum.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedListRecursion$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedListRecursion$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedListRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedListRecursion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/Array.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/ArrayQueue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/ArrayStack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/BSTinOrder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/BSTpostOrder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/BSTpreOrder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/LinkedList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/LinkedListQueue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/LinkedListStack.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Image/LoopQueue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Leetcode/203/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_Leetcode/203/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Leetcode/203/out/production/203/Solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_Leetcode/203/out/production/203/Solution3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Leetcode/203/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_Leetcode/203/src/Solution3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +49,14 @@
   <component name="ProjectId" id="1T02GFrMNC8zctakgi9nKPmt0VT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedList" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_Leetcode/349" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\DataStructure\Queue\src" />
     </key>
   </component>
   <component name="RunDashboard">

@@ -209,6 +209,25 @@ public class LinkedList<E> {
         return remove(size - 1);
     }
 
+    /**
+     * 删除链表中指定元素
+     * @param e 待删除元素的值
+     */
+    public void removeElements(E e){
+        Node prev = dummyHead;
+        while(prev.next!=null){
+            if (prev.next.e.equals(e)) {
+                Node del = prev.next;
+                prev.next = del.next;
+                del.next = null;
+                size--;
+            }
+            else{
+                prev = prev.next;
+            }
+        }
+    }
+
     @Override
     public String toString(){
         StringBuilder res = new StringBuilder();
