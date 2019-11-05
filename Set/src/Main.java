@@ -35,6 +35,8 @@ public class Main {
 
         for (String word: words)
             set.add(word);
+        for (String word: words)
+            set.contains(word);
         System.out.println("Total different words: " + set.getSize());
 
         long endTime = System.nanoTime();

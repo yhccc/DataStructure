@@ -122,12 +122,12 @@ public class BinarySearchTree<E extends Comparable<E>> {
     }
     // 查找以root为根的树中是否包含元素e，递归算法
     private boolean contains(Node node, E e){
-        if (root == null)
+        if (node == null)
             return false;
 
-        if (e.equals(root.e))
+        if (e.equals(node.e))
             return true;
-        else if (e.compareTo(root.e) < 0)
+        else if (e.compareTo(node.e) < 0)
             return contains(node.left, e);
         else
             return contains(node.right, e);

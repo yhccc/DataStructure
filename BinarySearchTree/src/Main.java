@@ -6,6 +6,7 @@ public class Main {
         for (int num:nums) {
             bst.add(num);
         }
+        bst.contains(3);
 //        bst.preOrder();
 //        System.out.println();
 //        bst.preOrderNR();
@@ -27,8 +28,8 @@ public class Main {
 //        bst.removeMax();
 //        bst.inOrder();
 //        System.out.println();
-        bst.remove(4);
-        bst.inOrder();
-        System.out.println();
+//        bst.remove(4);
+//        bst.inOrder();
+//        System.out.println();
     }
 }
