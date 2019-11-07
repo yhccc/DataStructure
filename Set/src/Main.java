@@ -22,6 +22,9 @@ public class Main {
         LinkedListSet<String> listSet = new LinkedListSet<>();
         double time2 = testSet(listSet, filename);
         System.out.println(time2);
+        AVLSet<String> avlSet = new AVLSet<>();
+        double time3 = testSet(avlSet, filename);
+        System.out.println(time3);
     }
 
     private  static double testSet(Set<String> set, String filename){

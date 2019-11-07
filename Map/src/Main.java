@@ -7,10 +7,13 @@ public class Main {
 
         Map<String, Integer> bst = new BSTMap<>();
         Map<String, Integer> list = new LinkedListMap<>();
+        Map<String, Integer> avl = new AVLMap<>();
         double time1 = testMap(bst, filename);
         double time2 = testMap(list, filename);
+        double time3 = testMap(avl, filename);
         System.out.println(time1);
         System.out.println(time2);
+        System.out.println(time3);
     }
 
     private static double testMap(Map<String, Integer> map, String filename){
